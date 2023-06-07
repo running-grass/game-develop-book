@@ -45,6 +45,8 @@ slug: /
 - [OpenGameArt](https://opengameart.org/)：OpenGameArt 是一个社区驱动的开源游戏艺术网站，提供大量的2D和3D艺术资源。您可以在网站上找到角色、背景、动画、音效等各种类型的素材，它们通常以免费许可证发布。
 - [Itch](https://itch.io/)：Itch 是一个游戏开发和发布平台，其中包含许多免费和付费的游戏素材资源。您可以在其中找到各种2D游戏素材包，包括精灵图、平铺纹理、UI元素等。
 - [独立精神](https://indienova.com/) 一个中文独立开发者社区
+- [CIGA中国独立游戏联盟](https://www.ciga.me/) 活动运营及为独立开发者提供各方面支持
+- [独游网](https://www.joyindie.com/) 素菜商店及合作对接
 
 
 ## 音频引擎和工具：
