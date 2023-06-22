@@ -7,6 +7,9 @@ slug: /
 
 > 下面所列资源，均为开源免费或者具有免费个人版本的商业软件
 
+
+- [计算机图形学与混合现实在线平台](https://games-cn.org/)
+
 ## 游戏引擎
 
 - [Unity](https://unity.com/) 目前市占率最高的游戏引擎，有[个人免费版](https://unity.com/products/unity-personal), 官方有提供[中文学习课程](https://learn.unity.com/)。 
