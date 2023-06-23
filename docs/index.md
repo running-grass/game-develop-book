@@ -40,11 +40,10 @@ slug: /
 - [Waifu2x](https://waifu2x.udp.jp/) 使用卷积神经网络对动漫风格的图片进行放大操作（支持照片）
 - [Lospec](https://lospec.com/png-crusher/) 优化 PNG 图像在线工具
 - [TinyPNG](https://tinypng.com/) PNG 图像在线压缩工具
-- [Aseprite](https://www.aseprite.org/)：Aseprite 是一款2D像素艺术编辑器，专门用于创建像素艺术和动画。它提供了丰富的绘图工具和动画编辑功能。Aseprite具有开源版本和商业版本。
-
+- [Aseprite](https://www.aseprite.org/) Aseprite 是一款2D像素艺术编辑器，专门用于创建像素艺术和动画。它提供了丰富的绘图工具和动画编辑功能。Aseprite具有开源版本和商业版本。
+- [ImageMagick](https://imagemagick.org/) 一个免费的开源软件套件，用于编辑和操作数字图像。它可用于创建、编辑、撰写或转换位图图像，并支持多种文件格式，包括 JPEG、PNG、GIF、TIFF 和 PDF。
 
 ## 3D处理
-
 - [Blender](https://www.blender.org/) 一个免费的开源3D创作套件
 
 ## 开源资源社区
